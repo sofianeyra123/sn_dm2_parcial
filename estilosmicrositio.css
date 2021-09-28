@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+* { 
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+h1, h2, h3, p {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+ body {
+	width: 100%;
+	height: 700px;
+	background-image: url(pattern.jpeg);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+header {
+	width: 100%;
+	height:150px;
+	background-color: black;
+}
+
+
+#logo {
+	margin-left: 34%;
+	padding-top: 1%;
+}
+
+nav {
+	width: 100%;
+	height: 20px;
+	background-color: yellow;
+
+}
+
+section {
+	width: 100%;
+	height: 480px;
+	background-color: #F79F1F;
+       
+}
+ 
+
+#pdf {
+	height: 100%;
+	width: 28%;
+	float: left;
+	margin-top: 1%;
+	padding-left: 10%;
+
+}
+
+
+.
+
+#galeriab {
+	height: 100%;
+	width: 72%;
+	float: right;
+	margin-top: 1%;
+	color: #1B1464;
+	padding: 1%;
+	padding-left: 4%;
+
+}
+
+
+
+
+.ph {
+	border-radius: 10px;
+	box-shadow: #f1c40f 1px 0 10px;
+	margin: 2%;
+}  
+
+
+
+
+#titulo 
+{margin-left: 25%;
+color: #1B1464;
+text-shadow: #f6e58d 1px 0 10px;}
+
+#titulob 
+{text-align: center;
+color: #1B1464;
+text-shadow: #f6e58d 1px 0 10px;
+padding-right: 13%;
+PADDInG-top: 1%;}
+
+
+
+footer {
+	height: 50px;
+	width: 100%;
+	background-color: black;
+}
+
